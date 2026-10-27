@@ -42,12 +42,6 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    },
-    "extra": {
-      "eas": {
-        "projectId": "a4598502-a299-4533-8e42-cd598eab3d14"
-      }
-    },
-    "owner": "tiagopbc"
+    }
   }
 }
